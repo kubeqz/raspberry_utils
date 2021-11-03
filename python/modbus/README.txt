@@ -1,0 +1,1 @@
+This project is using modified minimalmodbus from https://github.com/kubeqz/minimalmodbus.
